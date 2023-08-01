@@ -15,6 +15,7 @@ public class Contador {
         try {
             contar(parametro1, parametro2);
             for(int i = parametro1; i<= parametro2; i++){
+
                 System.out.println(i);
             }
             
